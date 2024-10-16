@@ -1,2 +1,7 @@
-# The program greets the user.
+
+# patch2
+print("Hello, World")
+
+# master
+
 print("Hello, World!")
